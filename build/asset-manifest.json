@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/REACT-WORDS-COUNT/static/css/main.7c6319f1.css",
+    "main.js": "/REACT-WORDS-COUNT/static/js/main.5a2fd0ff.js",
+    "static/js/787.268f3565.chunk.js": "/REACT-WORDS-COUNT/static/js/787.268f3565.chunk.js",
+    "static/media/logo.svg": "/REACT-WORDS-COUNT/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/REACT-WORDS-COUNT/index.html",
+    "main.7c6319f1.css.map": "/REACT-WORDS-COUNT/static/css/main.7c6319f1.css.map",
+    "main.5a2fd0ff.js.map": "/REACT-WORDS-COUNT/static/js/main.5a2fd0ff.js.map",
+    "787.268f3565.chunk.js.map": "/REACT-WORDS-COUNT/static/js/787.268f3565.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c6319f1.css",
+    "static/js/main.5a2fd0ff.js"
+  ]
+}
